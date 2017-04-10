@@ -18,6 +18,5 @@ To run the container run: `make run`. By default this will mount the `$HOME/dev/
 5. Provide the app name, modify the host name if required, and click __Create__.
 6. Your app begins staging, and you should be redirected to the app's getting started page.
 7. Use the `git clone` command provided or download the sample code to save the source code to your `PROJECT_DIR`.
-8. Skip the step to run the application locally.
-- Note, you can run the application locally if you update this container's configuration to support it, e.g. install language support and port configuration.
+8. Skip the step to run the application locally. Note, you can run the application locally if you update this container's configuration to support it, e.g. install language support and port configuration.
 9. Follow remaining instructions to modify the app and deploy again.
